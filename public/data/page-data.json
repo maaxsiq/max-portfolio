@@ -1,0 +1,112 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "maaxsiq@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:maaxsiq@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+55 35 99733-0160",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+90155882500"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/maxwell-siqueira/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Information Systems - 2018",
+        "description": "Bachelor's degree in Information Systems from the Federal University of Itajubá."
+      },
+      {
+        "title": "Electronics Technician - 2012",
+        "description": "Industrial Electronics Technician from the Tancredo Neves Professional Education Center."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "icon": "/images/home/education-skill/react-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "React Native",
+        "icon": "/images/home/education-skill/react-native-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "NextJS",
+        "icon": "/images/home/education-skill/next-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "TypeScript",
+        "icon": "/images/home/education-skill/typescript-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "NodeJS",
+        "icon": "/images/home/education-skill/nodejs-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "NestJS",
+        "icon": "/images/home/education-skill/nestjs-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "AWS",
+        "icon": "/images/home/education-skill/aws-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Docker",
+        "icon": "/images/home/education-skill/docker-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Dribble",
+        "href": "/"
+      },
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "maaxsiq@gmail.com",
+        "link": "mailto:maaxsiq@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+55 35 997330160",
+        "link": "tel:+55 35 997330160"
+      }
+    ]
+  }
+}

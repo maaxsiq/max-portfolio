@@ -1,0 +1,15 @@
+<svg width="69" height="69" viewBox="0 0 69 69" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="34.5" cy="34.5" r="34.5" fill="#FE4300"/>
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="central"
+    font-size="32"
+    font-weight="bold"
+    fill="white"
+    font-family="Arial, sans-serif"
+  >
+    M
+  </text>
+</svg>
